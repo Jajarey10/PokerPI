@@ -1,0 +1,3 @@
+# Poker Tournament App
+
+Instructions on how to run the full app...
